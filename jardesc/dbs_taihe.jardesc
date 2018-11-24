@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="dbs-release/taihe/dbs-taihe-1.0.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DBSManager/jardesc/dbs_taihe.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="false" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.pa"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.moblie.businessproxy"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.businessproxy{MobileProxy.java"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.email.impl"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.sms"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.outerproxy"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.servlet"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.pt"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.businessproxy{MonitorProxy.java"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.cm"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.aop"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dao.common.impl"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.websocket"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dto.business"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.pm"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.tb"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.op"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.locker.businessproxy"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.sm"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dao.impl"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.web"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.ap"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.locker.servlet"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.mb"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.guotong"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.email"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.qy"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.config"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.rm"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.moblie.servlet"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dao.common"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.constant"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.sc"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.util"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dao.factory"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.businessproxy{PushBusinessProxy.java"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.client.web.servlet"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.business.py"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dao"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.dto.function"/>
+        <javaElement handleIdentifier="=DBSManager/src&lt;com.dcdzsoft.sequence"/>
+    </selectedElements>
+</jardesc>
